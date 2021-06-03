@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rajnikumar-data
-- 👀 I’m interested in giving data a meaningful explanation therefore learning machine learning and data science
+- 👀 I’m interested in giving data a meaningful explanation therefore learning data science
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on projects realted to healthcare industry
 - 📫 How to reach me ...
